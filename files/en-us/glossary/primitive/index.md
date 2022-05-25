@@ -23,7 +23,7 @@ For example, below it looks like `toUpperCase()` and `length` are methods and pr
 let mystring = "lower case string";
 mystring.toUpperCase();
 console.log(mystring);
-// 'LOWER CASE STRING'
+// 'lower case string'
 console.log(mystring.length)
 // 17
 ```
